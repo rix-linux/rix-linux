@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ridwan I Hassan
 - 👀 I’m interested in programming languages and Big Data
-- 🦋 Python is my Native Programming Languages
+- 🦋 Python is my Native Programming Language
 - ✔️ C is my gateway to the core
 - 😋 Flask Framework is my Favourite 
 - 🌱 I’m currently Working on Flask Framework for web applications 
