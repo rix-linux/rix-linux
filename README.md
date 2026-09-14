@@ -4,10 +4,11 @@
 - ✔️ C is my gateway to the core
 - 😋 Flask Framework is my Favourite 
 - 🌱 I’m currently Working on Flask Framework for web applications 
-- 💞️ I’m looking to collaborate on ...
+- 😉 I’m looking to collaborate on Curiosity 
 - 📫 reach me on ridwan.kallax@gmail.com 
 - 😄 Gender/Sex: Male
 - ⚡ Fun fact: ...loading...
+📋: ALL MY PROJECTS ARE Private
 
 <!---
 rix-linux/rix-linux is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
