@@ -8,7 +8,7 @@
 - 📫 reach me on ridwan.kallax@gmail.com 
 - 😄 Gender/Sex: Male
 - ⚡ Fun fact: ...loading...
-- 📋: ALL MY PROJECTS ARE Private
+- 📋 ALL MY PROJECTS ARE Private
 
 <!---
 rix-linux/rix-linux is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
