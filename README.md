@@ -1,5 +1,8 @@
-- 👋 Hi, I’m @rix-linux
+- 👋 Hi, I’m @Ridwan I Hassan
 - 👀 I’m interested in programming languages and Big Data
+- 🦋 Python is my Native Programming Languages
+- ✔️ C is my gateway to the core
+- 😋 Flask Framework is my Favourite 
 - 🌱 I’m currently Working on Flask Framework for web applications 
 - 💞️ I’m looking to collaborate on ...
 - 📫 reach me on ridwan.kallax@gmail.com 
